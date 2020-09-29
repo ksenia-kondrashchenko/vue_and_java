@@ -2,8 +2,8 @@ package com.agileengine.vueandjava.controllers;
 
 import com.agileengine.vueandjava.models.Transaction;
 import com.agileengine.vueandjava.models.TransactionBody;
-import com.agileengine.vueandjava.servises.TransactionService;
-import com.agileengine.vueandjava.servises.TransactionValidationException;
+import com.agileengine.vueandjava.services.TransactionService;
+import com.agileengine.vueandjava.services.TransactionValidationException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.agileengine.vueandjava.servises;
+package com.agileengine.vueandjava.services;
 
 import com.agileengine.vueandjava.models.Transaction;
 import org.slf4j.Logger;

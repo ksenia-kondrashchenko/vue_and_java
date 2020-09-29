@@ -1,4 +1,4 @@
-package com.agileengine.vueandjava.servises;
+package com.agileengine.vueandjava.services;
 
 import com.agileengine.vueandjava.constants.TransactionType;
 import com.agileengine.vueandjava.models.Transaction;

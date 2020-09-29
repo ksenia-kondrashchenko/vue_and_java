@@ -1,4 +1,4 @@
-package com.agileengine.vueandjava.servises;
+package com.agileengine.vueandjava.services;
 
 public class TransactionValidationException extends Exception {
 

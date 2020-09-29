@@ -10,7 +10,7 @@ Execute "mvn spring-boot:run" from the backend folder
 
 Open localhost:8080 in your browser
 
-#API
+# API
 ### Get Balance (default)
 ```javascript
 GET http://localhost:8080/api/account
